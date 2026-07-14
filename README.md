@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi 👋 I'm Elakkiya Ravichandran
 
-<!--
-**elakkiya-ravichandran/elakkiya-ravichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Artificial Intelligence & Data Science
+- 💻 Interested in Machine Learning and Generative AI
+- 🐍 Python Programmer
+- ☕ Learning Java
+- 📊 Exploring Data Science
+- 🚀 Passionate about solving real-world problems using AI
+
+---
+
+## 🛠 Skills
+
+- Python
+- Java
+- SQL
+- Machine Learning
+- Git & GitHub
+- Data Structures
+- Problem Solving
+
+---
+
+## 📚 Currently Learning
+
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn: (Add y# Hi 👋 I'm Elakkiya Ravichandran
+
+🎓 B.Tech Artificial Intelligence and Data Science Student
+
+## 👩‍💻 About Me
+
+- 🌱 Currently learning Artificial Intelligence & Data Science
+- 💻 Interested in Machine Learning and Generative AI
+- 🐍 Python Programmer
+- ☕ Learning Java
+- 📊 Exploring Data Science
+- 🚀 Passionate about solving real-world problems using AI
+
+---
+
+## 🛠 Skills
+
+- Python
+- Java
+- SQL
+- Machine Learning
+- Git & GitHub
+- Data Structures
+- Problem Solving
+
+---
+
+## 📚 Currently Learning
+
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/elakkiya-ravichandran-20b828380 
+
+Email: elakkiyaravichandran29@gmail.com
+
+
+
+
+---
+
+⭐ Thanks for visiting my profile!
