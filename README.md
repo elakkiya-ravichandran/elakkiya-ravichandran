@@ -194,16 +194,5 @@ Designed and developed a Voting Management System to simplify election processes
 💼 LinkedIn:https://www.linkedin.com/in/elakkiya-ravichandran-20b828380 
 
 🐙 GitHub: 
----
-
-## 📊 GitHub Goals (2026)
-
-- Build AI & ML Projects
-- Upload Academic Projects
-- Contribute to Open Source
-- Practice Data Structures & Algorithms
-- Strengthen Python & Java Skills
-
----
 
 ⭐ *"Learning never stops. Every project is a step toward becoming a better AI Engineer."*
