@@ -193,6 +193,6 @@ Designed and developed a Voting Management System to simplify election processes
 
 💼 LinkedIn:https://www.linkedin.com/in/elakkiya-ravichandran-20b828380 
 
-🐙 GitHub: 
+🐙 GitHub:https://github.com/elakkiya-ravichandran
 
 ⭐ *"Learning never stops. Every project is a step toward becoming a better AI Engineer."*
